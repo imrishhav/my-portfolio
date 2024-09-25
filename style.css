@@ -1,0 +1,36 @@
+header{
+    text-align: center;
+}
+
+main{
+    text-align: right;
+}
+
+h2{
+    text-align: center;
+    color: cadetblue;
+}
+
+.Top{
+    text-align: center;
+    color: blue;
+}
+
+#Top2{
+    text-align: center;
+    color: red;
+}
+
+#Top3{
+    text-align: center;
+    color: red;
+}
+
+h3{
+    text-align: left;
+}
+
+ul{
+    text-align: center;
+    color: red;
+}
